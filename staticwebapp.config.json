@@ -87,4 +87,12 @@
   "mimeTypes": {
     ".json": "text/json"
   }
+  {
+  "networking": {
+    "allowedIpRanges": [
+      "103.21.20.226/32",
+      "AzureFrontDoor.Backend"
+    ]
+  }
+}
 }
